@@ -15,3 +15,5 @@ if (random1 > random2) {
 } else {
   title.textContent = "🤝 Draw!";
 }
+
+// 주석달기
